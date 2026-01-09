@@ -1,0 +1,6 @@
+
+{
+  "name": "CodeMorph AI",
+  "description": "A multi-agent code migration platform that uses Gemini 3 Pro to intelligently transform applications across languages and frameworks (e.g., Java to Python, Angular to React).",
+  "requestFramePermissions": []
+}
